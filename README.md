@@ -82,7 +82,7 @@ The app follows a modular design, ensuring clarity, simplicity, and ease of navi
 ## 🛠️ Tech Stack
 
 - **Platform:** Android  
-- **Language:** Java / Kotlin  
+- **Language:** Java 
 - **IDE:** Android Studio  
 - **Build Tool:** Gradle  
 
