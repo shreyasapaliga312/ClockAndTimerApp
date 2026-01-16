@@ -87,3 +87,9 @@ The app follows a modular design, ensuring clarity, simplicity, and ease of navi
 - **Build Tool:** Gradle  
 
 ---
+
+## 🎥 Demo Video
+
+👉 Watch the app demo here:  
+https://drive.google.com/drive/folders/1kz5Y7_lZ8lP8yTFSHV464yEbsnP1_uMp?usp=drive_link
+
